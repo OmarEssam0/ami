@@ -7,7 +7,7 @@ function renderApp() {
     <header class="header">
       <div class="container">
         <div class="logo-container">
-          <img src="https://i.ibb.co/Qp1Gk1C/hvac-logo.png" alt="AMI HVAC Logo" class="logo">
+          <img src="./images/Logoo/cd26fa5d-eabb-44cb-bfbd-f2ba1b32f838-removebg-preview.png" alt="AMI HVAC Logo" class="logo">
         </div>
         <nav class="main-nav">
           <ul>
@@ -97,7 +97,7 @@ function renderApp() {
           </div>
         </div>
         <div class="about-image">
-          <img src="https://i.ibb.co/Qp1Gk1C/ac-promo.jpg" alt="Air Conditioning Promotion">
+          <img src="./images/275977770_1905009373038008_6848283200493299379_n-1.png" alt="Air Conditioning Promotion">
           <div class="promo-overlay">
             <h3>Your home's comfort starts here.</h3>
             <p>Your perfect air conditioner at unbeatable prices.</p>
@@ -112,16 +112,16 @@ function renderApp() {
         <h2 class="section-title">Gallery</h2>
         <div class="gallery-grid">
           <div class="gallery-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/gallery1.jpg" alt="HVAC Installation">
+            <img src="images/gallery/New folder/1.jpg" alt="HVAC Installation">
           </div>
           <div class="gallery-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/gallery2.jpg" alt="Air Conditioning">
+            <img src="images/gallery/New folder/3.jpg" alt="Air Conditioning">
           </div>
           <div class="gallery-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/gallery3.jpg" alt="HVAC System">
+            <img src="images/gallery/New folder/4.jpg" alt="HVAC System">
           </div>
           <div class="gallery-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/gallery4.jpg" alt="Duct Work">
+            <img src="images/gallery/New folder/9.jpg" alt="Duct Work">
           </div>
         </div>
         <div class="gallery-link-container">
@@ -136,28 +136,28 @@ function renderApp() {
         <p class="clients-subtitle">We're going to become partners for the long run.</p>
         <div class="clients-grid">
           <div class="client-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/client1.png" alt="Carrefour">
+            <img src="images/ourClients/carrefour-logo-removebg-preview.png" alt="Carrefour">
           </div>
           <div class="client-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/client2.png" alt="Green Town">
+            <img src="images/ourClients/sample-507.png" alt="Green Town">
           </div>
           <div class="client-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/client3.png" alt="Mazloum Home">
+            <img src="images/ourClients/mazloum-logo-1542119006.jpg" alt="Mazloum Home">
           </div>
           <div class="client-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/client4.png" alt="Misr Elkheir Group">
+            <img src="images/ourClients/Helwan_University_Logo-removebg-preview.png" alt="Misr Elkheir Group">
           </div>
           <div class="client-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/client5.png" alt="Helwan University">
+            <img src="images/ourClients/images__1_-removebg-preview.png" alt="Helwan University">
           </div>
           <div class="client-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/client6.png" alt="Ezz Elarab">
+            <img src="images/ourClients/x.png" alt="Ezz Elarab">
           </div>
           <div class="client-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/client7.png" alt="GLC">
+            <img src="images/ourClients/logo (2).png" alt="GLC">
           </div>
           <div class="client-item">
-            <img src="https://i.ibb.co/Qp1Gk1C/client8.png" alt="Misr El Nour">
+            <img src="images/ourClients/logo.png" alt="Misr El Nour">
           </div>
         </div>
       </div>
@@ -196,8 +196,7 @@ function renderApp() {
       <div class="container">
         <div class="footer-content">
           <div class="footer-logo">
-            <img src="https://i.ibb.co/Qp1Gk1C/hvac-logo.png" alt="AMI HVAC Logo">
-            <h3>HVAC</h3>
+            <img src="./images/Logoo/cd26fa5d-eabb-44cb-bfbd-f2ba1b32f838-removebg-preview.png" alt="AMI HVAC Logo" >
           </div>
           <div class="footer-info">
             <div class="footer-section">
@@ -207,19 +206,21 @@ function renderApp() {
             <div class="footer-section">
               <h4>Contact</h4>
               <ul>
-                <li><i class="fas fa-envelope"></i> <a href="mailto:Ami.hvac@gmail.com">Ami.hvac@gmail.com</a></li>
-                <li><i class="fas fa-phone"></i> <a href="tel:01000000000">01000000000</a></li>
-                <li><i class="fas fa-phone"></i> <a href="tel:01111111111">01111111111</a></li>
-                <li><i class="fas fa-map-marker-alt"></i> <address>Moharam Bek 1st St, Sidi Gaber, New Cairo</address></li>
+                <li><i class="fas fa-envelope"></i> <a href="mailto:Aya.Ami.Hvac@gmail.com">Aya.Ami.Hvac@gmail.com</a></li>
+                <li><i class="fas fa-phone"></i> <a href="tel:01005554113">
+                    01005554113
+                  </a></li>
+                <li><i class="fas fa-phone"></i> <a href="tel:010007425291">010007425291</a></li>
+                <li><address>Building 18, Adjacent 11/12, 1st Settlement, New Cairo
+                  </address></li>
               </ul>
             </div>
             <div class="footer-section">
               <h4>Social Media</h4>
               <ul class="social-links">
-                <li><a href="#"><i class="fab fa-facebook"></i> AMI-HVAC</a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i> @AMI_HVAC_twitter</a></li>
-                <li><a href="#"><i class="fab fa-instagram"></i> @AMI_HVAC_instagram</a></li>
-                <li><a href="#"><i class="fab fa-linkedin"></i> @AMI_HVAC_linkedin</a></li>
+                <li><a href="https://www.facebook.com/Daikin.Powerr"><i class="fab fa-facebook"></i> AMI-HVAC</a></li>
+                <li><a href="https://www.instagram.com/ami.hvac?igsh=N25ldjEwYWw2NmZw"><i class="fab fa-instagram"></i> @AMI_HVAC_instagram</a></li>
+                <li><a href="https://www.linkedin.com/company/ami-hvac-solutions/"><i class="fab fa-linkedin"></i> @AMI_HVAC_linkedin</a></li>
               </ul>
             </div>
           </div>

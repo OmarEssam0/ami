@@ -11,8 +11,8 @@ function renderApp() {
   document.querySelector('#app').innerHTML = `
     <header class="header">
       <div class="container">
-        <div class="logo-container">
-          <img src="https://i.ibb.co/Qp1Gk1C/hvac-logo.png" alt="AMI HVAC Logo" class="logo">
+       <div class="logo-container">
+          <img src="./images/Logoo/cd26fa5d-eabb-44cb-bfbd-f2ba1b32f838-removebg-preview.png" alt="AMI HVAC Logo" class="logo">
         </div>
         <nav class="main-nav">
           <ul>
@@ -45,7 +45,7 @@ function renderApp() {
       
       <div class="gallery-masonry">
         <div class="gallery-item" data-category="installations">
-          <img src="https://i.ibb.co/Qp1Gk1C/gallery1.jpg" alt="HVAC Installation">
+          <img src="./images/gallery/New folder/1.jpg" alt="HVAC Installation">
           <div class="gallery-overlay">
             <h3>Commercial HVAC Installation</h3>
             <p>Carrefour Hypermarket</p>
@@ -53,7 +53,7 @@ function renderApp() {
         </div>
         
         <div class="gallery-item" data-category="equipment">
-          <img src="https://i.ibb.co/Qp1Gk1C/gallery2.jpg" alt="Air Conditioning Unit">
+          <img src="./images/gallery/New folder/2.jpg" alt="Air Conditioning Unit">
           <div class="gallery-overlay">
             <h3>VRF System</h3>
             <p>High-efficiency cooling solution</p>
@@ -61,7 +61,7 @@ function renderApp() {
         </div>
         
         <div class="gallery-item" data-category="projects">
-          <img src="https://i.ibb.co/Qp1Gk1C/gallery3.jpg" alt="Project Site">
+          <img src="./images/gallery/New folder/3.jpg" alt="Project Site">
           <div class="gallery-overlay">
             <h3>Residential Complex</h3>
             <p>Green Town Project</p>
@@ -69,7 +69,7 @@ function renderApp() {
         </div>
         
         <div class="gallery-item" data-category="installations">
-          <img src="https://i.ibb.co/Qp1Gk1C/gallery4.jpg" alt="Duct Installation">
+          <img src="./images/gallery/New folder/4.jpg" alt="Duct Installation">
           <div class="gallery-overlay">
             <h3>Duct Work</h3>
             <p>Industrial facility ventilation system</p>
@@ -77,7 +77,7 @@ function renderApp() {
         </div>
         
         <div class="gallery-item" data-category="equipment">
-          <img src="https://i.ibb.co/Qp1Gk1C/gallery5.jpg" alt="Cooling Tower">
+          <img src="./images/gallery/New folder/5.jpeg" alt="Cooling Tower">
           <div class="gallery-overlay">
             <h3>Cooling Tower</h3>
             <p>Industrial cooling solution</p>
@@ -85,7 +85,7 @@ function renderApp() {
         </div>
         
         <div class="gallery-item" data-category="projects">
-          <img src="https://i.ibb.co/Qp1Gk1C/gallery6.jpg" alt="Office Building">
+          <img src="./images/gallery/New folder/6.jpeg" alt="Office Building">
           <div class="gallery-overlay">
             <h3>Corporate Headquarters</h3>
             <p>Complete HVAC system installation</p>
@@ -93,7 +93,7 @@ function renderApp() {
         </div>
         
         <div class="gallery-item" data-category="installations">
-          <img src="https://i.ibb.co/Qp1Gk1C/gallery7.jpg" alt="AC Installation">
+          <img src="./images/gallery/New folder/9.jpg" alt="AC Installation">
           <div class="gallery-overlay">
             <h3>Split AC Installation</h3>
             <p>Residential project</p>
@@ -101,7 +101,7 @@ function renderApp() {
         </div>
         
         <div class="gallery-item" data-category="equipment">
-          <img src="https://i.ibb.co/Qp1Gk1C/gallery8.jpg" alt="Chiller">
+          <img src="./images/gallery/New folder/8.jpg" alt="Chiller">
           <div class="gallery-overlay">
             <h3>Industrial Chiller</h3>
             <p>High-capacity cooling equipment</p>

@@ -12,7 +12,7 @@ function renderApp() {
     <header class="header">
       <div class="container">
         <div class="logo-container">
-          <img src="https://i.ibb.co/Qp1Gk1C/hvac-logo.png" alt="AMI HVAC Logo" class="logo">
+          <img src="./images/Logoo/cd26fa5d-eabb-44cb-bfbd-f2ba1b32f838-removebg-preview.png" alt="AMI HVAC Logo" class="logo">
         </div>
         <nav class="main-nav">
           <ul>

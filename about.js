@@ -10,8 +10,8 @@ function renderApp() {
   document.querySelector('#app').innerHTML = `
     <header class="header">
       <div class="container">
-        <div class="logo-container">
-          <img src="https://i.ibb.co/Qp1Gk1C/hvac-logo.png" alt="AMI HVAC Logo" class="logo">
+       <div class="logo-container">
+          <img src="./images/Logoo/cd26fa5d-eabb-44cb-bfbd-f2ba1b32f838-removebg-preview.png" alt="AMI HVAC Logo" class="logo">
         </div>
         <nav class="main-nav">
           <ul>
@@ -37,7 +37,7 @@ function renderApp() {
       
       <div class="about-content">
         <div class="about-image-container">
-          <img src="https://i.ibb.co/Qp1Gk1C/about-image.jpg" alt="AMI HVAC Team" class="about-main-image">
+          <img src="./images/about.jpeg" alt="AMI HVAC Team" class="about-main-image">
         </div>
         
         <div class="about-text">
@@ -46,10 +46,19 @@ function renderApp() {
           <p>With a team of highly qualified engineers and technicians, we have successfully completed numerous projects across various sectors, including commercial, residential, and industrial.</p>
           
           <h2>Our Mission</h2>
-          <p>Our mission is to provide high-quality mechanical contracting services that meet and exceed our clients' expectations. We are committed to delivering innovative solutions that are energy-efficient, cost-effective, and environmentally friendly.</p>
+          <p>is to consistently deliver high-quality
+             projects efficiently and on schedule.
+             We prioritize enhancing client
+             satisfaction through continuous
+             improvement in our business
+practices, with a strong focus on
+safety, quality, service delivery, and
+environmental stewardship.</p>
           
           <h2>Our Vision</h2>
-          <p>To be the leading mechanical contracting company in Egypt and the Middle East, recognized for our excellence, reliability, and commitment to quality.</p>
+          <p>To become one of the leading and
+most reliable MEP contracting and
+trading companies in the Middle East.</p>
           
           <h2>Our Values</h2>
           <ul class="values-list">
@@ -98,20 +107,20 @@ function renderApp() {
         
         <div class="team-grid">
           <div class="team-member">
-            <div class="member-image">
-              <img src="https://i.ibb.co/Qp1Gk1C/team1.jpg" alt="Team Member">
-            </div>
+            <!-- <div class="member-image">
+               <img src="https://i.ibb.co/Qp1Gk1C/team3.jpg" alt="Team Member">
+            </div> -->
             <div class="member-info">
-              <h3>Ahmed Ibrahim</h3>
+              <h3>Ahmed Sallam</h3>
               <p class="member-title">Founder & CEO</p>
               <p class="member-bio">With over 20 years of experience in the HVAC industry, Ahmed leads our company with vision and expertise.</p>
             </div>
           </div>
           
           <div class="team-member">
-            <div class="member-image">
-              <img src="https://i.ibb.co/Qp1Gk1C/team2.jpg" alt="Team Member">
-            </div>
+            <!-- <div class="member-image">
+               <img src="https://i.ibb.co/Qp1Gk1C/team3.jpg" alt="Team Member">
+            </div> -->
             <div class="member-info">
               <h3>Mohamed Hassan</h3>
               <p class="member-title">Technical Director</p>
@@ -120,9 +129,9 @@ function renderApp() {
           </div>
           
           <div class="team-member">
-            <div class="member-image">
-              <img src="https://i.ibb.co/Qp1Gk1C/team3.jpg" alt="Team Member">
-            </div>
+           <!-- <div class="member-image">
+               <img src="https://i.ibb.co/Qp1Gk1C/team3.jpg" alt="Team Member">
+            </div> -->
             <div class="member-info">
               <h3>Sara Ahmed</h3>
               <p class="member-title">Project Manager</p>
@@ -131,9 +140,9 @@ function renderApp() {
           </div>
           
           <div class="team-member">
-            <div class="member-image">
-              <img src="https://i.ibb.co/Qp1Gk1C/team4.jpg" alt="Team Member">
-            </div>
+           <!-- <div class="member-image">
+               <img src="https://i.ibb.co/Qp1Gk1C/team3.jpg" alt="Team Member">
+            </div> -->
             <div class="member-info">
               <h3>Khaled Mahmoud</h3>
               <p class="member-title">Lead Engineer</p>
