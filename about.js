@@ -14,14 +14,14 @@ function renderApp() {
           <img src="./images/Logoo/cd26fa5d-eabb-44cb-bfbd-f2ba1b32f838-removebg-preview.png" alt="AMI HVAC Logo" class="logo">
         </div>
         <nav class="main-nav">
-          <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html" class="active">About</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="projects.html">Projects</a></li>
-            <li><a href="gallery.html">Gallery</a></li>
-            <li><a href="index.html#clients">Clients</a></li>
-              <!--   <li><a href="contact.html">Contact</a></li> -->
+           <ul>
+            <li><a href="./index.html" class="active">Home</a></li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./services.html">Services</a></li>
+            <li><a href="./projects.html">Projects</a></li>
+            <li><a href="./gallery.html">Gallery</a></li>
+            <li><a href="#clients">Clients</a></li>
+             <!--   <li><a href="contact.html">Contact</a></li> -->
           </ul>
         </nav>
         <div class="mobile-menu-btn">

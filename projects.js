@@ -16,12 +16,12 @@ function renderApp() {
         </div>
         <nav class="main-nav">
           <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="projects.html" class="active">Projects</a></li>
-            <li><a href="gallery.html">Gallery</a></li>
-            <li><a href="index.html#clients">Clients</a></li>
+            <li><a href="./index.html" class="active">Home</a></li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./services.html">Services</a></li>
+            <li><a href="./projects.html">Projects</a></li>
+            <li><a href="./gallery.html">Gallery</a></li>
+            <li><a href="#clients">Clients</a></li>
              <!--   <li><a href="contact.html">Contact</a></li> -->
           </ul>
         </nav>
