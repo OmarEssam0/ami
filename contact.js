@@ -1,3 +1,9 @@
+document.addEventListener('DOMContentLoaded', () => {
+  initMap();
+  setupContactForm();
+  setupNavigation()
+});s
+
 function setupNavigation() {
     // Mobile menu toggle
     const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
@@ -35,6 +41,7 @@ function setupNavigation() {
       });
     }
   }
+
   
   function initMap() {
     // This is a placeholder for a map integration

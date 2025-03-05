@@ -17,7 +17,7 @@ function renderApp() {
             <li><a href="projects.html">Projects</a></li>
             <li><a href="gallery.html">Gallery</a></li>
             <li><a href="#clients">Clients</a></li>
-            <li><a href="contact.html">Contact</a></li>
+             <!--   <li><a href="contact.html">Contact</a></li> -->
           </ul>
         </nav>
         <div class="mobile-menu-btn">
@@ -101,7 +101,7 @@ function renderApp() {
           <div class="promo-overlay">
             <h3>Your home's comfort starts here.</h3>
             <p>Your perfect air conditioner at unbeatable prices.</p>
-            <a href="contact.html" class="btn">Contact Us</a>
+            <a href="#contact-section" class="btn">Contact Us</a>
           </div>
         </div>
       </div>
@@ -169,7 +169,7 @@ function renderApp() {
           <div class="contact-text">
             <h2>Questions?</h2>
             <p>Get in touch.</p>
-            <a href="contact.html" class="btn">Contact Us</a>
+           <!-- <a href="#contact-section" class="btn">Contact Us</a> -->
           </div>
           <div class="contact-form">
             <form id="contactForm">

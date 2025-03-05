@@ -22,7 +22,7 @@ function renderApp() {
             <li><a href="projects.html">Projects</a></li>
             <li><a href="gallery.html" class="active">Gallery</a></li>
             <li><a href="index.html#clients">Clients</a></li>
-            <li><a href="contact.html">Contact</a></li>
+             <!--   <li><a href="contact.html">Contact</a></li> -->
           </ul>
         </nav>
         <div class="mobile-menu-btn">
@@ -118,12 +118,11 @@ function renderApp() {
       </div>
     </div>
 
-    <footer class="footer">
+     <footer class="footer">
       <div class="container">
         <div class="footer-content">
           <div class="footer-logo">
-            <img src="https://i.ibb.co/Qp1Gk1C/hvac-logo.png" alt="AMI HVAC Logo">
-            <h3>HVAC</h3>
+            <img src="./images/Logoo/cd26fa5d-eabb-44cb-bfbd-f2ba1b32f838-removebg-preview.png" alt="AMI HVAC Logo" >
           </div>
           <div class="footer-info">
             <div class="footer-section">
@@ -133,19 +132,21 @@ function renderApp() {
             <div class="footer-section">
               <h4>Contact</h4>
               <ul>
-                <li><i class="fas fa-envelope"></i> <a href="mailto:Ami.hvac@gmail.com">Ami.hvac@gmail.com</a></li>
-                <li><i class="fas fa-phone"></i> <a href="tel:01000000000">01000000000</a></li>
-                <li><i class="fas fa-phone"></i> <a href="tel:01111111111">01111111111</a></li>
-                <li><i class="fas fa-map-marker-alt"></i> <address>Moharam Bek 1st St, Sidi Gaber, New Cairo</address></li>
+                <li><i class="fas fa-envelope"></i> <a href="mailto:Aya.Ami.Hvac@gmail.com">Aya.Ami.Hvac@gmail.com</a></li>
+                <li><i class="fas fa-phone"></i> <a href="tel:01005554113">
+                    01005554113
+                  </a></li>
+                <li><i class="fas fa-phone"></i> <a href="tel:010007425291">010007425291</a></li>
+                <li><address>Building 18, Adjacent 11/12, 1st Settlement, New Cairo
+                  </address></li>
               </ul>
             </div>
             <div class="footer-section">
               <h4>Social Media</h4>
               <ul class="social-links">
-                <li><a href="#"><i class="fab fa-facebook"></i> AMI-HVAC</a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i> @AMI_HVAC_twitter</a></li>
-                <li><a href="#"><i class="fab fa-instagram"></i> @AMI_HVAC_instagram</a></li>
-                <li><a href="#"><i class="fab fa-linkedin"></i> @AMI_HVAC_linkedin</a></li>
+                <li><a href="https://www.facebook.com/Daikin.Powerr"><i class="fab fa-facebook"></i> AMI-HVAC</a></li>
+                <li><a href="https://www.instagram.com/ami.hvac?igsh=N25ldjEwYWw2NmZw"><i class="fab fa-instagram"></i> @AMI_HVAC_instagram</a></li>
+                <li><a href="https://www.linkedin.com/company/ami-hvac-solutions/"><i class="fab fa-linkedin"></i> @AMI_HVAC_linkedin</a></li>
               </ul>
             </div>
           </div>
@@ -155,6 +156,7 @@ function renderApp() {
         </div>
       </div>
     </footer>
+   
   `;
 }
 
